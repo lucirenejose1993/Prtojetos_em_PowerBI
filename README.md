@@ -5,7 +5,7 @@ https://app.powerbi.com/groups/me/reports/155e366c-2c8f-4030-a7c0-c76142d38da6/R
 
 O desafio consiste em criar um BD, fazer a coleta desse BD utilizando o power BI e logo após transformar os dados afim de deixá-los aptos para a criação de relatório.
 
-Foi sugerido a criação de uma instância no azure para a criação e inserção de dados no banco, porém como não tenho mais créditos para utilização no azure criei e inseri dados no banco localmente utilizando para isso o script ![alt text](Script Azure_Company_criadno o Banco).
+Foi sugerido a criação de uma instância no azure para a criação e inserção de dados no banco, porém como não tenho mais créditos para utilização no azure criei e inseri dados no banco localmente utilizando para isso o script ([Script Azure_Company_criadno o Banco*.sql](https://github.com/lucirenejose1993/processando_e_transformado_dados_com_powerBI/blob/main/Script%20Azure_Company_criadno%20o%20Banco.mwb.sql)).
 
 ### Após a criação do banco os dados foram integrados com o Power BI e os passos a seguir foram efetuados:
 
@@ -19,7 +19,7 @@ Foi sugerido a criação de uma instância no azure para a criação e inserçã
 
 ## Coluna antes da divisão
 
-![alt text](DividindoAddress01.png)
+[![alt text](DividindoAddress01.png)](https://github.com/lucirenejose1993/processando_e_transformado_dados_com_powerBI/blob/main/Imgs/DividindoAddress01.png)
 
 
 ## Colunas após a divisão

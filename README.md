@@ -19,8 +19,7 @@ Foi sugerido a criação de uma instância no azure para a criação e inserçã
 
 ## Coluna antes da divisão
 
-[[![alt text](DividindoAddress01.png)](https://github.com/lucirenejose1993/processando_e_transformado_dados_com_powerBI/blob/main/Imgs/DividindoAddress01.png)](https://github.com/lucirenejose1993/processando_e_transformado_dados_com_powerBI/blob/main/Imgs/README.md)
-
+![ALT TEXT](Imgs/DividindoAddress01.png)
 
 ## Colunas após a divisão
 

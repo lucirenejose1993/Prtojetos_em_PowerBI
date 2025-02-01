@@ -23,48 +23,48 @@ Foi sugerido a criação de uma instância no azure para a criação e inserçã
 
 ## Colunas após a divisão
 
-![alt text](AposDivisaoAddress02.png)
+![alt text](Imgs/AposDivisaoAddress02.png)
 
 5. Foi realizada a mescla de consultas entre as tabelas employee e departament para criação de uma nova tabela employee com o nome dos departamentos associados aos colaboradores. A mescla teve como base a tabela employee utilizando-se os campos Dno e Dnumber como referência. Após a criação da mescla as colunas Dnumber e todas a outras de departament foram excluídas exceto Dname que foi renomeada para Departament.
 
 ## Parâmetros da Mescla de Consultas
 
-![alt text](MesclarEmpDept03.png)
+![alt text](Imgs/MesclarEmpDept03.png)
 
 ## Resultado da Mescla de Consultas
 
-![alt text](ResultadoMesclaEmpDept04.png)
+![alt text](Imgs/ResultadoMesclaEmpDept04.png)
 
 6. Foi realizada a junção dos colaboradores e respectivos nomes dos gerentes. A junção foi realizada no Power BI e Utilizou-se a tabela employee para criação da mescla de tabelas. A mesma tabela foi utilizada para obter a junção fazendo a ligação de Super_Ssn com Ssn.
 
 ## Parâmetros da Mescla de Consultas
 
-![alt text](MesclaNomeGerente05.png)
+![alt text](Imgs/MesclaNomeGerente05.png)
 
 ## Resultado da Mescla de Consultas
 
-![alt text](NomeGerentee06.png)
+![alt text](Imgs/NomeGerentee06.png)
 
 7. As colunas de Nome e Sobrenome foram mescladas para ter apenas uma coluna definindo o nome dos colaboradores. Foi utilizada a opção de mesclar colunas com o sperador espaço selecionado, após a mescla a coluna foi renomeada para Name.
 
 ## Parâmetros da Mescla de Colunas
 
-![alt text](MesclaNomeSobrenomeParam07.png)
+![alt text](Imgs/MesclaNomeSobrenomeParam07.png)
 
 ## Resultado da Mescla de Colunas
 
-![alt text](MesclaColunaNomeSobrenomeResult08.png)
+![alt text](Imgs/MesclaColunaNomeSobrenomeResult08.png)
 
 8. Foi criada uma nova mescla de consultas entre as tabelas departament e dept_locations utilizando as colunas Dnumber como parâmetro, a tabela gerada gerada foi renomeada para dept_namelocation, as colunas desnecessárias e duplicadas foram removidas e a mescla de colunas entre as colunas Dname e Dlocation foi realizada.
 
 ## Parâmetros da Mescla de Consultas
 
-![alt text](MesclaDept-Dept_locationParam09.png)
+![alt text](Imgs/MesclaDept-Dept_locationParam09.png)
 
 
 ## Resultado da Mescla de Consultas
 
-![alt text](MesclaDept-Dept_locationResult10.png)
+![alt text](Imgs/MesclaDept-Dept_locationResult10.png)
 
 9. No passo anterior foi utilizada a opção mesclar consultas e não a opção acrescentar visto que a há uma coluna em comum que combina as duas consultas.
 
@@ -72,9 +72,9 @@ Foi sugerido a criação de uma instância no azure para a criação e inserçã
 
 ## Parâmetros do Agrupamento de Colunas
 
-![alt text](AgregManagerColaboradorParam11.png)
+![alt text](Imgs/AgregManagerColaboradorParam11.png)
 
 ## Resultado do Agrupamento de Colunas
 
-![alt text](AgregColunaManagerColaboradorResult12.png)
+![alt text](Imgs/AgregColunaManagerColaboradorResult12.png)
 

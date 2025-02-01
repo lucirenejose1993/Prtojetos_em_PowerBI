@@ -16,7 +16,7 @@ Neste desafio de projeto, foi criando um modelo de dados baseado em Star Schema 
 - Custo dos produtos vendidos.
 - Lucro e data da vendas.
 
-A tabela [Financial Sample]() utilizada no projeto pode ser baixada na pasta base de dados.
+A tabela [Financial Sample](https://github.com/lucirenejose1993/Prtojetos_em_PowerBI/blob/main/Modelando%20um%20Dashboard%20de%20E-commerce%20com%20Power%20BI%20Utilizando%20F%C3%B3rmulas%20DAX/Financial%20Sample_BaseDados.xlsx) utilizada no projeto pode ser baixada na pasta base de dados.
 
 ### Tabela Financial
 

@@ -48,11 +48,11 @@ No Painel 1 - Sales Report, são apresentados 5 cartões e 4 gráficos com dados
 
 Foram utilizados 3 icones para navegação nas paginas do relatório.
 
-- O ícone <img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Icones/lucro.jpg" width="20"/> disponivel na barra lateral das paginas Sales Report e Product Report direciona o usuário para a pagina de **Profit Report**.
+- O ícone <img src="icones/lucro.jpg" width="20"/> disponivel na barra lateral das paginas Sales Report e Product Report direciona o usuário para a pagina de **Profit Report**.
 
-- O ícone <img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Icones/vendas.png" width="20"/> disponivel na barra lateral das paginas Sales Report e Profit Report direciona o usuário para a pagina de **Product Report**.
+- O ícone <img src="icones/vendas.png" width="20"/> disponivel na barra lateral das paginas Sales Report e Profit Report direciona o usuário para a pagina de **Product Report**.
 
-- Já o ícone <img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Icones/Acordo%20fechado.png" width="20"/> disponivel na barra lateral das paginas Profit Report e Product Report direciona o usuário para a pagina de **Sales Report**.
+- Já o ícone <img src="icones/Acordo fechado.png" width="20"/> disponivel na barra lateral das paginas Profit Report e Product Report direciona o usuário para a pagina de **Sales Report**.
 
 ## Painel 2 - Profit Report
 
@@ -61,7 +61,7 @@ O Painel Profit Report foi desenvolvido a partir do modelo apresentado. Entretan
 O relatório Profit Report tem por finalidade detalhar o lucro obtido por meio das operações de comercialização dos produtos demonstrando os resultados por produto, país, segmento e ano das operações.
 
 <div aling="center">
-<img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Paineis/Imagem%202%20-%20Profit%20Report.png">
+<img src="paines/Imagem 2 - Profit Report.png">
 </div>
 
 No Painel 2 - Profit Report, são apresentados 4 gráficos com dados consolidado que pode ter seu intervalo de análise modificado por ano de exercício, apresentando os seguintes indicadores.
@@ -79,7 +79,7 @@ No Painel 2 - Profit Report, são apresentados 4 gráficos com dados consolidado
 O Painel Product Report foi desenvolvido a partir do conhecimento desenvolvido durante os cursos apresentados e entre outras referencias consultadas, com o proposito de desenvolver novas habilidades de capacidade de analitica indispensáveis ao mercado de trabalho. Foi utilizado como base o mesmo Layout e gráficos construidos anteriormente que se mostraram coerentes ao proposito da apresentação. 
 
 <div aling="center">
-<img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Paineis/Imagem%203%20-%20Product%20Report.png">
+<img src="paines/Imagem 3 - Product Report.png">
 </div>
 
 No Painel 3 - Product Report, são apresentados 4 gráficos com dados consolidado que pode ter seu intervalo de análise modificado por ano de exercício. Os gráficos apresentam os resultados para cada produto descrito na base de dados detalhando seu desempenho de vendas por país, segmento, trimestre a acumulado do ano. Os gráficos deste relatório possuem os títulos dinâmicos que se adequam a cenário análisado. Neste relatório são apresentados os seguintes indicadores.

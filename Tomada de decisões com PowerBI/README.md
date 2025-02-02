@@ -15,4 +15,3 @@ O relatório deve ser revisado a atender os objetivos a seguir.
 - Criação de menus de navegabilidade em cada pagina.
 - O relatório deverá ter 3 páginas
 
-O relatório encontra-se disponível para interação por meio do link [Criando um Dashboad Gerencial para tomada de decisões com Power BI.]()
